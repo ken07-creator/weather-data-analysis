@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+streamlit>=1.35
+# needed only to run the automated tests:
+pytest>=7.0
+# Tkinter (desktop window) is part of Python itself; on Linux install it with: sudo apt install python3-tk
